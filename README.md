@@ -57,4 +57,12 @@ cd ~
 git clone https://github.com/Piasttorun/worldProjectApiSQLSource repo
 echo "done"
 echo ""
+
+# creating database
+echo "creating database..."
+sudo mysql -h localhost -P 3306 -u root -p < repo/world.sql
+echo "done"
+echo ""
+
+
 ```
