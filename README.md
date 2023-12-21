@@ -12,8 +12,8 @@ AMI's had some problems, after testing many times the blocker was that i didn't 
 ## retrospective
 Testing before hand and manually and more thoroughly and not adding additional steps before testing again, help back the pace of the deployment of the project, having a more planned out method of testing would be desired. I started of quick and that gave me confidence to move quicker, however i shouldn't have.
 # the code for database vm
-[user-data](data-user-data.md)
-[ami](data-ami.md)
+[user-data](data-user-data.sh)
+[ami](data-ami.sh)
 # the code for app vm
-[user-data](app-user-data.md)
-[ami](app-ami.md)
+[user-data](app-user-data.sh)
+[ami](app-ami.sh)
