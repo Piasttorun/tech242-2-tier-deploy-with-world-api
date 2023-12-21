@@ -1,4 +1,3 @@
-```
 #!/bin/bash
 
 # set env vars
@@ -20,4 +19,3 @@ echo ""
 sudo systemctl reload apache2
 echo "done"
 echo ""
-```

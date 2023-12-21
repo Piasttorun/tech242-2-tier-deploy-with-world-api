@@ -4,9 +4,9 @@ The individual commands were ran, you need to install mysql server and configure
 ## part two, manually testing App
 The app script was mainly already created, but the commands had to be tested individually, an additional dependency of MYSQL-server was added to test the connection with the database, user data was created normally using export without bashrc, the blockers here were mostly when creating the script.
 ## scripts
-the script for the database had no blockers and after tesing worked well. however the APP database would connect to it, i later realised this was because it couldn't create a user and the error was hidden in the database script, after verifying that the VM connected the scripts ran well
+the script for the database had no blockers and after tesing worked well. however the APP database would connect to it, i later realised this was because it couldn't create a user and the error was hidden in the database script, after verifying that the VM connected the scripts ran well. The scripts had to be altered slightly for the new requirements with MYSQL connection checked.
 ## user data
-user data for both scripts were rather easy to implement, and took 30m in the morning.
+user data for both scripts were rather easy to implement, and took 30m in the morning. User data was put into the user data section and they ran after the first time.
 ## AMIS
 AMI's had some problems, after testing many times the blocker was that i didn't put a shebang at the beginning of the App AMI User data, which wasted a lot of time
 ## retrospective

@@ -1,3 +1,0 @@
-```
-sudo systemctl restart mysql
-```

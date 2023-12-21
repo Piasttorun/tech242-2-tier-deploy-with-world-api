@@ -1,4 +1,3 @@
-```
 #!/bin/bash
 
 # update
@@ -68,4 +67,3 @@ sudo mysql -u root -p"root" -e "GRANT ALL PRIVILEGES ON *.* TO 'ubuntu'@'%' WITH
 sudo mysql -u root -p"root" -e "FLUSH PRIVILEGES;"
 echo "done"
 echo ""
-```

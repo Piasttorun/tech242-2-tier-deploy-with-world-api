@@ -1,4 +1,3 @@
-```
 #!/bin/bash
 
 # update
@@ -125,4 +124,3 @@ sudo a2ensite reverse-proxy
 sudo systemctl reload apache2
 echo "done"
 echo ""
-```
