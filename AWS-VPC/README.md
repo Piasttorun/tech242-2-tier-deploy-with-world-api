@@ -8,6 +8,7 @@ You can decide whether these are public or private, by default they are all publ
 The database needs to be private, you want the best security for the databases, GDPR, law suits etc.
 ## ![Alt text](image-1.png)
 ## ![Alt text](image-2.png)
+# An ised on CIDR, the first part is the enforced Ip and the number after the "/" is the amouont of pits from left to right which format is enforced.
 # order of work
 ##
 - vpc
