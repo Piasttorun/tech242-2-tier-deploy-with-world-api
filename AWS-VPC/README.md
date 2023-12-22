@@ -24,3 +24,6 @@ set availability zones for subnets, assign different zones west,1ca
 
 security group is associated with a VPC
 the default one
+
+jump box from one VM to another VM
+
