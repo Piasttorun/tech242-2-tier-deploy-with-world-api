@@ -8,3 +8,19 @@ You can decide whether these are public or private, by default they are all publ
 The database needs to be private, you want the best security for the databases, GDPR etc.
 ## ![Alt text](image-1.png)
 ## ![Alt text](image-2.png)
+# order of work
+##
+- vpc
+- subnet
+- gateway
+- public route table
+- asoc to subnet
+- asoc to gateway
+- check vpc
+- create db
+- create app
+
+set availability zones for subnets, assign different zones west,1ca
+
+security group is associated with a VPC
+the default one
