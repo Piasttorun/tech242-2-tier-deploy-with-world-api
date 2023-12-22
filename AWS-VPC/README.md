@@ -7,4 +7,4 @@ Subnets are like rooms in a flat/apartement, in the ireland region in hte defaul
 You can decide whether these are public or private, by default they are all public. This is undesireable.
 The database needs to be private, you want the best security for the databases, GDPR etc.
 ## ![Alt text](image-1.png)
-## ![Alt text](image-3.png)
+## ![Alt text](image-2.png)
